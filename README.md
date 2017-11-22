@@ -1,4 +1,4 @@
-# saulbass
+#Saul Bass
 
 Anatomy of a Saul Bass - Design Essay
 ----------------
