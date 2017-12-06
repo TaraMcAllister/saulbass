@@ -2,22 +2,23 @@
 
 ##Getting his Start
 
-Bass was born in 1920 in New York City, to Jewish immigrants. A creative child, he drew constantly. Something he promoted heavily throughout his life. Growing up in the Depression, he had to leave school at 16 to work in an advertising agency. During this time he attended night classes at the Art Students League where he began studying under György Kepes, a master of the functional Bauhaus aesthetic. Kepes focused Bass's ideas about modernism, psychology and the social responsibility of designers, helping shape Bass into one of the most articulate members of his profession.
+Bass was born in 1920 in New York City, to Jewish immigrants. A creative child, he drew constantly. Something he promoted heavily throughout his life. Growing up in the Depression, he had to leave school at 16 to work in an advertising agency. During this time he attended night classes at the Art Students League where he began studying under György Kepes, a master of the functional Bauhaus aesthetic. Kepes focused Bass's ideas about modernism, psychology and the social responsibility of designers, helping shape Bass into one of the most articulate members of his profession. In the 1940s, Bass left New York for LA. Bass would soon turn his experience in advertising into something much more – design.
 
 <!--Quote-->
 "Design is thinking made visible."
 
 ##Cinematic Revolution
 
-In the 1940s, Bass left New York for LA. He worked mostly in advertising until his first major break: a poster for the 1954 film, Carmen Jones. The filmmakers were so impressed by his poster work, they invited him to design the title credits. This turned out to be a game-changing decision for the industries of film and design.
+ Bass had worked mostly in advertising until his first major break: a poster for the 1954 film, Carmen Jones. The filmmakers were so impressed by his poster work, they invited him to design the title credits. This turned out to be a game-changing decision for the industries of film and design.
 
-Bass stepped up the sophistication of movie posters with his distinctive minimal style: imagery that mimicked cut papers and simple colour palettes. This can be seen in many pieces of his workmBass completely revolutionized the role of title credits in films. Traditionally, credits were static and drab. They were considered so unimportant, they would actually be projected onto the closed curtains.
+Bass stepped up the sophistication of movie posters with his distinctive minimal style: imagery that mimicked cut papers and simple colour palettes. This can be seen in many pieces of his work. Bass completely revolutionized the role of title credits in films. Traditionally, credits were static and drab. They were considered so unimportant, they would actually be projected onto the closed curtains.
 
 Bass, however, was committed to injecting life into these graphics, making them as much a part of the cinematic experience as anything else. He aimed to "symbolise and summarise" the movie in the credits via imagery and text. His signature “kinetic type” became part of design history as they dashed and moved across the screen.
 
 Titles became a spectacle to be seen. Film reels with Bass credits were delivered to movie theaters along with a note: “projectionist – pull curtain before titles.”
 
-Watching the documentary Bass on Titles (2006) I learned that he approached each film title with the same three-point approach he would use with any other design project.
+        During my research I watched the documentary 'Bass on Titles' (2006) It was here that I learnt that Bass approached each film title with the same three-point approach he would use with any of his design projects:
+
 
 - Saturating himself with knowledge of the company.
 - Understanding the vision of the company.
@@ -54,7 +55,7 @@ Even some of his designs that have been tweaked or re-branded are still key piec
 
 "The ideal trademark is one that is pushed to its utmost limits in terms of abstraction and ambiguity, yet is still readable. Trademarks are usually metaphors of one kind or another. And are, in a certain sense, thinking made visible."
 
-##The Next Thing
+##The Next Big Thing
 
 As many do halfway through their career, Saul Bass wanted something more. He began looking for a more creative outlet for his talents than the lucrative commissions for trademarks, corporate logos, letterheads, TV commercials and packaging for which he was in constant demand. The answer proved to be film-making: imaginative documentaries, a single feature film (the rarely seen SF picture Phase IV, 1979), and of course he continued to create title sequences for other directors' work as explored before. Bass continued working throughout film, graphic design and TV and created the ultimate legacy for himself working until his death in 1996. Many view Bass as the most important graphic designer of the 20th century.
 
@@ -70,5 +71,8 @@ Allstate Insurance have even got in on the Saul Bass legacy with an ad campaign 
 
 And of course, the ultimate sign of fame and legacy - a Google Doodle. For his 93rd Birthday on May 8th 2008 Google created a Bass homage displaying his best-loved works. The doodle can be viewed here. It was designed by Matthew Cruickshank who said "I've always been interested in the work of Saul Bass and was delighted to get the opportunity to celebrate his birthday on the Google homepage. From the outset, I wanted to celebrate a number of his film credits in succinct succession, as well as a nod in the direction of his poster work. Film rights can be problematic so I wasn't completely sure of the order of cutting, but as it turned out every studio was a pleasure to work with. Corresponding with Jennifer Bass was inspirational and led to hearing that Saul Bass was a Dave Brubeck fan." The Google Doodle was then put to the sound of a Dave Brubeck track which matched perfectly with the animation. The fact that the Dave Brubeck and every studio was happy to help Cruickshank shows just how well-respected Saul Bass is and how his work still has an impact today.
 
+##Conclusion
+
+fgfgffhhdhd
 
 ##Bibliography
