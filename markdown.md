@@ -33,7 +33,7 @@ His approach can be seen brilliantly in his next project for Otto Preminger, for
 
 ##The Experimental Phase
 
-Many people regard 'the Man with the Golden Arm' as the peak of Bass’ career when it was really only the first of a series of film titles in the 50s and 60s that would increasingly stretch the boundaries of both technology and art.
+Many people regard 'the Man with the Golden Arm' as the peak of Bass’ career when it was really only the first of a series of film titles in the 50s and 60s that would increasingly stretch the boundaries of both technology and art. Enter: The Experimental Phase.
 
 Bass' title design portfolio included:
 
@@ -48,7 +48,7 @@ Bass' title design portfolio included:
 
 “If I do my job well, the identity program will also clean up the image of the company, position it as being contemporary and keep it from ever looking dated.”
 
-The average lifespan of a Saul Bass logo is 34 years. 34 years. That's impressive. Some of his work has yet to be replaced, like the absolutely brilliant designs for Kosé Cosmetics (1959), Kibun (1964), Warner Communications (1972) and Geffen Records (1980). Bass set out to insure this would be the case through solid, thoughtful and timeless design.
+The average lifespan of a Saul Bass logo is 34 years. 34 years. That's impressive. Some of his work has yet to be replaced, like the absolutely brilliant designs for  Kibun (1964), Warner Communications (1972) and Geffen Records (1980). Bass set out to insure this would be the case through solid, thoughtful and timeless design.
 
 Even some of his designs that have been tweaked or re-branded are still key pieces of design history and are viewed as vicious examples of great graphic design. 
 <!--Quote-->
@@ -65,7 +65,7 @@ A mammoth name must have a mammoth legacy. His influence today has cast a wide n
 
 Title sequences such as The Walking Dead and The X-Files set the mood for what is to come. An idea that Saul Bass first established. To us, it seems like common sense but only because nearly every movie and TV-show does it in modern times. Our common sense has been engrained in us due to Saul Bass.
 
-Likewise Saul Bass was also known for using titles sequences of epilogues and prologues helping to establish the story, the world and the characters before it has even begun. The most prevalent contemporary example of this is the Game Of Thrones title sequence which show us the known world, focus in on the locations of that particular episode while also communicating the progressive rise and fall of each house as it plays out on the mechanical game board. 
+Likewise Saul Bass was also known for using titles sequences of epilogues and prologues helping to establish the story, the world and the characters before it has even begun. The most prevalent contemporary example of this is the Game Of Thrones title sequence which shows us the known world, focuses in on the locations of that particular episode while also communicating the progressive rise and fall of each house as it plays out on the mechanical game board. 
 
 Allstate Insurance have even got in on the Saul Bass legacy with an ad campaign designed by Leo Burnett/Chicago. It sports uneven colours and graphic shapes that mimic the way Bass would utilize graphics.
 
@@ -76,3 +76,5 @@ And of course, the ultimate sign of fame and legacy - a Google Doodle. For his 9
 fgfgffhhdhd
 
 ##Bibliography
+
+Allstate: http://blog.fidmdigitalarts.com/blog/modern-designs-inspired-by-graphic-design-pioneer-saul-bass/
