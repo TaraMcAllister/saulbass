@@ -1,0 +1,213 @@
+/* ------- CSS RESET -----*/
+
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em;
+}
+
+/* ---- HEADERS ---- */
+
+.landing {
+    background-image: url(Mactontish HD/Users/tara/Documents/GitHub/saul_bass/saulbass/images/saultitle.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Encode Sans Expanded', sans-serif;
+    font-weight: normal;
+    color: black;
+    text-align: left;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: auto;
+    background: #FFFEFE;
+    color: #333;
+    line-height: 2em;
+}
+
+/* ---- NAVIGATION ---- */
+
+/* ---- Navigation bar CSS styling ---- */
+
+table.menu {
+    text-align: center;
+    margin-top: 6em;
+    margin-right: 9em;
+    margin-left: 3em;
+}
+
+.nav {
+    background-image: url('goldenarm.png');
+    width: 100%;
+    padding: 1em 0;
+}
+
+nav {
+    position: relative;
+    overflow: hidden;
+}
+
+nav ul {
+    text-align: center;
+    letter-spacing: 0.5em;
+    text-transform: uppercase;
+}
+
+nav ul li {
+    display: inline;
+    margin: 15px;
+}
+
+nav a:link {
+    color: #111625;
+    text-decoration: none;
+}
+
+a {
+    color: #111625;
+}
+
+nav a:visited {
+    color: lightblue;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #e21c2b;
+    text-decoration: none;
+}
+
+/* ---- MARGINS FOR HEADERS, BLOCKQUOTE AND P TAGS ---- */
+
+h1 {
+    font-size: 4em;
+    margin-top: -0.2em;
+    margin-bottom: .1em;
+}
+
+h2 {
+    font-size: 2.5em;
+    margin-bottom: .5em;
+}
+
+h3 {
+    font-size: 1.5em;
+    margin-top: 3em;
+    margin-bottom: 0.7em;
+    text-transform: uppercase;
+}
+
+p {
+    margin-bottom: 1.5em;
+    line-height: 1.5em;
+    font-size: 1em;
+}
+
+blockquote {
+    padding: 1em 0 2em 0;
+    font-size: 1.25em;
+    font-style: italic;
+    line-height: 1.4em;
+    color: darkslategrey;
+}
+
+blockquote p {
+    hanging-punctuation: first;
+    text-indent: -0.3em;
+}
+
+/* ---- IMAGES ---- */
+
+img {
+    display: block;
+    margin: auto;
+    height: auto;
+    margin: auto;
+    max-width: 80%;
+    padding-bottom: 1em;
+}
+
+/* ---- REFERENCES ---- */
+
+/* bibliography */
+
+ref {
+    margin: 0 auto 1em auto;
+}
+
+.ref {
+    background: #F26822;
+    font-size: 90%;
+    padding: 1em;
+}
+.ref {
+    background-color: black;
+    color: white;
+    font-size: 1em;
+}
+
+footer {
+    margin-top: 1.5em;
+}
+
+
+footer-small {
+    text-align: left;
+}
+
+footer hr {
+    margin-bottom: 3em;
+}
+
+/* ---- SOCIAL ICONS ----- */
+
+.social a img {
+    -webkit-transition: opacity .25s ease-in-out;
+    transition: opacity .25s ease-in-out;
+}
+
+.social a:hover img {
+    opacity: 0.8;
+}
+
+.social li {
+    display: inline-block;
+    color: #444;
+}
+
+.social li img {
+    width: 50px;
+}
+
+.social {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    text-align: center;
+    margin: auto;
+}
+
+.social img {
+    width: 20%;
+    align-items: center;
+    display: block;
+    float: left;
+    margin: 1em 1em 1em 0
+}
+
+.social ul {
+    width: 75%;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
