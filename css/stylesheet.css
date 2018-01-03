@@ -27,6 +27,7 @@ h3 {
     font-family: 'Encode Sans Expanded', sans-serif;
     font-weight: normal;
     color: black;
+    font-size: 4em; 
     text-align: left;
 }
 
@@ -378,4 +379,108 @@ footer hr {
 #backtotop a:hover img {   
     -webkit-transform: scale(1.17);
     transform: scale(1.17);
+    
+    
+    /* ----- MEDIA QUERIES ----- */
+
+/* ------ TABLET ---- */
+    
+@media (max-width: 50em) {
+    
+    /* ---- GENERAL ----*/
+    
+    p {
+        width: 80%;
+    }
+    
+    /* ---- SPECIFIC ----- */
+    
+    header h3 {
+        font-size: 4em;
+    }
+    
+    #rebelborder {
+        width: 80%;
+    }
+    
+    #conclusion {
+        border-left: none;
+        border-right: none;
+    }
+}
+
+
+
+/* ----- MOB ----- */
+
+@media (max-width: 35em) {
+    
+    /* ---- GENERAL ---- */
+    
+    body {
+        margin: auto 0;
+        width: 100%;
+        font-size: 115%;
+    }
+   
+    table {
+        font-size: 90%;
+    }
+    
+    p {
+        width: 90%;
+    }
+    
+    header h1 {
+        font-size: 3em;
+        line-height: 1.3em;
+    }
+    
+    h2 {
+        font-size: 2.25em;
+    }
+    
+    blockquote {
+        font-size: 1.2em;
+        margin-left: 1em;
+    }
+    
+    cite {
+        margin-left: 0;
+    }
+        
+        /* ---- SPECIFIC ----- */
+    
+    header h3 {
+        display: none;
+    }
+    
+    #rebelborder {
+        width: 80%;
+    }
+    
+    #principles {
+        width: 65%;
+    }
+    
+    #umbrellapenguin {
+        display: none;
+    }
+    
+    #conclusion {
+        border-left: none;
+        border-right: none;
+    }
+    
+    .social img {
+        max-width: 80%;
+        margin: 0;
+    }
+    
+    .social ul {
+        width: 100%;
+    }
+    
+    
+}
 
