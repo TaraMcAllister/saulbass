@@ -41,22 +41,20 @@ body {
 
 /* ---- NAVIGATION ---- */
 
-/* ---- Navigation bar CSS styling ---- */
-
 nav {
     text-align: center;
+    padding-top: 1.7em;
     letter-spacing: 0.06em;
-    margin-top: 2em;
-    margin-right: 5em;
-    margin-left: 5em;
-    margin-bottom: 2em;
+    margin-bottom: 2em; 
+    word-wrap: normal;
+    display: inline-block;
 }
 
 nav {
-    background-image: url(../images/goldenarm.png);
+    background-color: #000;
     width: 100%;
+    height: 3.5em;
 }
-
 
 nav {
     position: relative;
@@ -65,22 +63,34 @@ nav {
 }
 
 nav a:link {
-    color: #111625;
+    color: white;
     text-decoration: none;
 }
 
 a {
-    color: #111625;
+    color: white;
 }
 
 nav a:visited {
-    color: red;
+    color: white;
     text-decoration: none;
 }
 
 nav a:hover {
     color: #e21c2b;
     text-decoration: none;
+}
+nav ul {
+    margin: 2em;
+}
+
+/* ---- GOLDEN ARM ---- */
+
+.start {
+    background-image: url(../images/goldenarmamend.png);
+    background-position: top right;
+    height: 100%vh;
+    width: 100%vw;
 }
 
 /* ---- MARGINS FOR HEADERS, BLOCKQUOTE AND P TAGS ---- */
@@ -109,6 +119,15 @@ p {
     font-size: 1em;
 }
 
+.start {
+    mix-blend-mode: overlay;
+    color: #333;
+}
+
+.livedby {
+    padding-top: 1em;
+}
+
 blockquote {
     padding: 1em 0 2em 0;
     font-size: 1.25em;
@@ -122,6 +141,40 @@ blockquote p {
     text-indent: -0.3em;
 }
 
+/* ---- PADDING FOR TEXT ---- */
+
+.start {
+    padding-left: 7em;
+    padding-right: 7em;
+}
+
+.experiment {
+    padding-left: 7em;
+    padding-right: 7em;
+}
+
+.logos {
+     padding-left: 7em;
+    padding-right: 7em;
+    padding-top: 2em;
+}
+
+.big {
+     padding-left: 7em;
+    padding-right: 7em;
+}
+.influence {
+     padding-left: 7em;
+    padding-right: 7em;
+}
+
+/* ---- TEXT CONTRAST ---- */
+
+.secondpara {
+    color: #333;
+    mix-blend-mode: difference;
+}
+
 /* ---- IMAGES ---- */
 
 img {
@@ -133,21 +186,125 @@ img {
     padding-bottom: 1em;
 }
 
+#posters {
+    list-style: none;
+    margin: auto;
+    text-align: center;
+}
+
+#posters li {
+    display: inline-block;
+    margin: 1em 1em 1em 0;
+    height: 25%;
+    width: 25%;
+}
+
+#ulrika {
+    list-style: none;
+    margin: auto;
+    text-align: center;
+}
+
+#ulrika li {
+    display: inline-block;
+    margin: 1em 0.5em 0.5em 0;
+    height: 65%;
+    width: 65%;
+}
+
+.carmenjones {
+    height: 30%;
+    width: 30%;
+}
+
+.bassportrait {
+    float: right;
+   overflow: hidden;
+   padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+    height: 20%;
+    width: 20%;
+}
+
+.bassportrait:before,
+.bassportrait:after {
+  content: "";
+  display: table;
+}
+.bassportrait:after {
+  clear: both;
+}
+.bassportrait {
+  clear: both;
+  *zoom: 1;
+}
+
+.allstate {
+   float: left;
+   padding-left: 1em;
+    padding-right: 1em;
+    height: 30%;
+    width: 30%;
+}
+
+.caption {
+    color: lightgray;
+    font-size: 90%;
+    font-style: italic;
+    text-align: center;
+    margin-top: -0.2em;
+    margin-bottom: 1em;
+}
+
+/* ---- a href ---- */
+
+a.google {
+    color: red;
+}
+
+.google:hover {
+    color: greenyellow;
+}
+
 /* ---- REFERENCES ---- */
 
 .ref {
-    background: black;
+    background: black; 
     color: white;
     font-size: 1em;
-    padding-top: 0.0em;
-    padding-bottom: 1em;
+    padding-top: -1em;
+    padding-bottom: 1.5em;
     padding-left: 2em
 }
 
 .refhead {
     color: white;
+    padding-top: 1em;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ee0000;
+}
+
+/* ---- LISTS ---- */
+
+ul.ref {
+    padding-left: 2em;
+}
+
+ul.experimental {
+    padding-left: 2em;
+}
+
+ol.points {
+    padding-left: 2em;
+}
 /* --- FOOTER ---- */
 
 footer {
@@ -204,3 +361,21 @@ footer hr {
     margin-left: auto;
     margin-right: auto;
 }
+
+/* ---- BACK TO TOP HAND ---- */
+
+
+#top {
+    margin-top: -.5em;
+    width: 7%;
+}
+
+#backtotop a img {
+    -webkit-transition: scale 0.3s ease-in-out;
+    transition: scale 0.3s ease-in-out;
+}
+
+#backtotop a:hover img {   
+    -webkit-transform: scale(1.17);
+    transform: scale(1.17);
+

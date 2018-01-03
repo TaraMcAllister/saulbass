@@ -73,7 +73,7 @@ And of course, the ultimate sign of fame and legacy - a Google Doodle. For his 9
 
 ##Conclusion
 
-fgfgffhhdhd
+Bass died in Los Angeles on April 25, 1996, of non-Hodgkin's lymphoma. His wife-and creative partner, Elaine Makatura, survived him. The couple had been married for 35 years; they had two children, Jennifer and Jeffrey. His daughter has written a biography which displayed and analysed Bass' work 'Saul Bass: A Life in Film and Design Book.'
 
 ##Bibliography
 
