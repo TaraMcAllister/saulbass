@@ -77,4 +77,15 @@ Bass died in Los Angeles on April 25, 1996, of non-Hodgkin's lymphoma. His wife-
 
 ##Bibliography
 
-Allstate: http://blog.fidmdigitalarts.com/blog/modern-designs-inspired-by-graphic-design-pioneer-saul-bass/
+- Saul Bass: The man who changed graphic design' by Alex Bigman
+- 'Saul Bass: A Life in Film and Design by Jennifer Bass and Pat Kirkham' Book Review by Philip French in 'The Guardian'
+- Christian Annyas's Logo Design Review
+- Saul Bass: A Life in Film and Design Hardcover – November 9, 2011 by Jennifer Bass
+- Simon Arms' Showcase of Bass
+- Alex Darling's Essay on Bass
+- Ulrika Johnson's Work for the Museum of Contemporary Art Australia'
+- The Google Doodle
+- Encyclopedia of World Biography: Saul Bass
+- Star Wars Movie Posters in the style of Saul Bass
+- Modern Designs Inspired by Saul Bass
+- 'Saul Bass: Title Champ' documentary
