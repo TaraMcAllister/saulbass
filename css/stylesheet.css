@@ -22,7 +22,6 @@
 }
 
 h1,
-h2,
 h3 {
     font-family: 'Encode Sans Expanded', sans-serif;
     font-weight: normal;
@@ -85,14 +84,35 @@ nav ul {
     margin: 2em;
 }
 
-/* ---- GOLDEN ARM ---- */
+/* ---- BACKGROUND IMAGES ---- */
 
 .start {
-    background-image: url(../images/goldenarmamend.png);
+    background-image: url(../images/goldenarmfirsts.png);
     background-position: top right;
     height: 100%vh;
     width: 100%vw;
 }
+
+.experiment {
+    background-image: url(../images/stacks.png);
+    height: 100%vh;
+    width: 100%vw;
+}
+
+.kinetic {
+    background-image: url(../images/vertigobuildings.png);
+    background-position: top right;
+    height: 100%vh;
+    width: 100%vw;
+}
+
+.big {
+    background-image: url(../images/madworldglobe.png);
+    background-position: top right;
+    height: 100%vh;
+    width: 100%vw;
+}
+
 
 /* ---- MARGINS FOR HEADERS, BLOCKQUOTE AND P TAGS ---- */
 
@@ -120,11 +140,6 @@ p {
     font-size: 1em;
 }
 
-.start {
-    mix-blend-mode: overlay;
-    color: #333;
-}
-
 .livedby {
     padding-top: 1em;
 }
@@ -149,6 +164,16 @@ blockquote p {
     padding-right: 7em;
 }
 
+.films {
+    padding-left: 7em;
+    padding-right: 7em;
+}
+
+.kinetic {
+    padding-left: 7em;
+    padding-right: 7em;
+}
+
 .experiment {
     padding-left: 7em;
     padding-right: 7em;
@@ -167,6 +192,10 @@ blockquote p {
 .influence {
      padding-left: 7em;
     padding-right: 7em;
+}
+
+#afteriframe {
+    padding-top: 2em;
 }
 
 /* ---- TEXT CONTRAST ---- */
@@ -218,7 +247,7 @@ img {
     width: 30%;
 }
 
-.bassportrait {
+.bassport {
     float: right;
    overflow: hidden;
    padding-left: 1em;
@@ -226,19 +255,6 @@ img {
     padding-top: 1em;
     height: 20%;
     width: 20%;
-}
-
-.bassportrait:before,
-.bassportrait:after {
-  content: "";
-  display: table;
-}
-.bassportrait:after {
-  clear: both;
-}
-.bassportrait {
-  clear: both;
-  *zoom: 1;
 }
 
 .allstate {
@@ -258,7 +274,33 @@ img {
     margin-bottom: 1em;
 }
 
-/* ---- a href ---- */
+/* ---- IFRAMES ---- */
+
+.intrinsic-container {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+}
+ 
+/* 16x9 Aspect Ratio */
+.intrinsic-container-16x9 {
+  padding-bottom: 56.25%;
+}
+ 
+/* 4x3 Aspect Ratio */
+.intrinsic-container-4x3 {
+  padding-bottom: 75%;
+}
+ 
+.intrinsic-container iframe {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* ---- A HREF ---- */
 
 a.google {
     color: red;
@@ -396,19 +438,8 @@ footer hr {
     /* ---- SPECIFIC ----- */
     
     header h3 {
-        font-size: 4em;
+        font-size: 3em;
     }
-    
-    #rebelborder {
-        width: 80%;
-    }
-    
-    #conclusion {
-        border-left: none;
-        border-right: none;
-    }
-}
-
 
 
 /* ----- MOB ----- */
@@ -422,55 +453,22 @@ footer hr {
         width: 100%;
         font-size: 115%;
     }
-   
-    table {
-        font-size: 90%;
-    }
     
     p {
         width: 90%;
     }
     
-    header h1 {
+    header h3 {
         font-size: 3em;
         line-height: 1.3em;
-    }
-    
-    h2 {
-        font-size: 2.25em;
     }
     
     blockquote {
         font-size: 1.2em;
         margin-left: 1em;
     }
-    
-    cite {
-        margin-left: 0;
-    }
         
         /* ---- SPECIFIC ----- */
-    
-    header h3 {
-        display: none;
-    }
-    
-    #rebelborder {
-        width: 80%;
-    }
-    
-    #principles {
-        width: 65%;
-    }
-    
-    #umbrellapenguin {
-        display: none;
-    }
-    
-    #conclusion {
-        border-left: none;
-        border-right: none;
-    }
     
     .social img {
         max-width: 80%;
@@ -480,7 +478,3 @@ footer hr {
     .social ul {
         width: 100%;
     }
-    
-    
-}
-
