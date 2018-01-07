@@ -90,7 +90,7 @@ nav ul {
     background-image: url(../images/goldenarmfirsts.png);
     background-position: top right;
     height: 100%vh;
-    width: 100%vw;
+    width: 90%vw;
 }
 
 .experiment {
@@ -254,13 +254,6 @@ img {
     padding-right: 1em;
     height: 30%;
     width: 30%;
-}
-
-.left {
-    float: right;
-    padding-left: 2em;
-    width: 30%;
-    height: 30%;
 }
 
 .caption {
