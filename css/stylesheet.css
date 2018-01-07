@@ -189,6 +189,7 @@ blockquote p {
      padding-left: 7em;
     padding-right: 7em;
 }
+
 .influence {
      padding-left: 7em;
     padding-right: 7em;
@@ -247,22 +248,19 @@ img {
     width: 30%;
 }
 
-.bassport {
-    float: right;
-   overflow: hidden;
-   padding-left: 1em;
-    padding-right: 1em;
-    padding-top: 1em;
-    height: 20%;
-    width: 20%;
-}
-
 .allstate {
    float: left;
    padding-left: 1em;
     padding-right: 1em;
     height: 30%;
     width: 30%;
+}
+
+.left {
+    float: right;
+    padding-left: 2em;
+    width: 30%;
+    height: 30%;
 }
 
 .caption {
